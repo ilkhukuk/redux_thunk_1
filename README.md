@@ -1,25 +1,25 @@
-## REDUX THUNK PROJECT
+# REDUX THUNK PROJECT
 
-# USED
-> Redux - thunk
-> Boostrap
-> React-router-dom
-> useDispatch
-> useSelector
-> Provider
-> ternary operator ( ? :)
-> && operator 
-> findIndex ()
-> concat ()
-> createStore, 
-> combineReducers, 
-> applyMiddleware
+## USED
+* Redux - thunk
+* Boostrap
+* React-router-dom
+* useDispatch
+* useSelector
+* Provider
+* ternary operator ( ? :)
+* && operator 
+* findIndex ()
+* concat ()
+* createStore, 
+* combineReducers, 
+* applyMiddleware
 
-# CONTANT
+## CONTANT
 
 * ilkhukuk@gmail.com
 * https://www.linkedin.com/in/ilkhukuk/
 
-# SCREENSHOT
+## SCREENSHOT
 
 ![](screen.gif)
